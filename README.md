@@ -11,5 +11,5 @@
 - 🌍 I'm mostly active within the **Google Developer Communities**
 - 🌱 Learning all about **Data/ML/DL**
 - 💬 Ping me about **Data Engineering**, **Computer Vision**, **Community Building**, **Design Thinking**
-- 📫 Reach me: [twitter.com/TahaRehah](https://twitter.com/TahaRehah) [/in/taha-rehah](https://www.linkedin.com/in/taha-rehah/)
+- 📫 Reach me: [/in/taha-rehah](https://www.linkedin.com/in/taha-rehah/) or [twitter.com/TahaRehah](https://twitter.com/TahaRehah)
 - ⚡️ Fun fact: I make delicious food

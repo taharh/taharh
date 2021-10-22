@@ -1,16 +1,15 @@
+
 ### Hi there 👋
 
-<!--
-**taharh/taharh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a ML Engineer with a focus on Computer Vision applied to Healthcare.
 
-Here are some ideas to get you started:
+##### BIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Deepecho**
+- 👯 I'm an Expert ML Trainer at **Bamboogeeks**
+- ⚙️ I use daily: `.py`, `.pynb`, `Azure`
+- 🌍 I'm mostly active within the **Google Developer Communities**
+- 🌱 Learning all about **Data/ML/DL**
+- 💬 Ping me about **Data Engineering**, **Computer Vision**, **Community Building**, **Design Thinking**
+- 📫 Reach me: [twitter.com/TahaRehah](https://twitter.com/TahaRehah) [/in/taha-rehah](https://www.linkedin.com/in/taha-rehah/)
+- ⚡️ Fun fact: I make delicious food

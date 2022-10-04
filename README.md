@@ -5,9 +5,9 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Deepecho**
+- 🏢 I'm currently working as Data Engineer at **Deepecho**
 - 👯 I'm an Expert ML Trainer at **Bamboogeeks**
-- ⚙️ I use daily: `.py`, `.pynb`, `Azure`
+- ⚙️ I use daily: `.py`, `.ipynb`, `Azure` , `GCP`
 - 🌍 I'm mostly active within the **Google Developer Communities**
 - 🌱 Learning all about **Data/ML/DL**
 - 💬 Ping me about **Data Engineering**, **Computer Vision**, **Community Building**, **Design Thinking**

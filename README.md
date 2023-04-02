@@ -5,7 +5,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working as Data Engineer at **Deepecho**
+- 🏢 I'm currently working as a Cloud Data Engineer at **Volvo Cars**
 - 👯 I'm an Expert ML Trainer at **Bamboogeeks**
 - ⚙️ I use daily: `.py`, `.ipynb`, `Azure` , `GCP`
 - 🌍 I'm mostly active within the **Google Developer Communities**
